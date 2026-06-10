@@ -1,0 +1,7 @@
+@use 'reset' as *;
+@use 'variables' as *;
+
+body {
+  background-color: $bg-color;
+  font-family: sans-serif;
+}
